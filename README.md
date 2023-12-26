@@ -1,6 +1,9 @@
 # ATP-Tennis-Match-Predictor
 Machine Learning algorithm to predict results of ATP matches throughout the last two decades
 
+# Results
+Predicted winner of match correctly ~65% of the time
+
 # Setup
 Follow the steps below that are in the jupyter notebook file, will need to change directory files to ensure data is being accessed correctly
 
